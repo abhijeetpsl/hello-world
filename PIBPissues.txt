@@ -1,0 +1,21 @@
+Pool a ride :-
+
+edit is not happening
+start date is text,
+end date is not coming
+
+should show latest week info.
+
+IT issues:-
+
+ at Edit, image name should display.
+
+edit is not happening
+
+
+admin
+
+edit or create should not be for user it only for master admin
+
+
+---------------
